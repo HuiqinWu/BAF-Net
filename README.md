@@ -1,6 +1,3 @@
-# PET_RECON
+# BAF-Net
 
-Hi Human!
-
-I am a student who is learning about PET.
-Please advise.
+PyTorch implement of paper 'BAF-Net: Bidirectional Attention-aware Fluid Pyramid Feature Integrated Multimodal Fusion Network for Diagnosis and Prognosis'.
